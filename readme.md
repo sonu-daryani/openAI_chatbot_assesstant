@@ -13,7 +13,7 @@ A lightweight chatbot UI built with **Flask**, styled using **Tailwind CSS**, an
 
 ---
 
-![image]('/demo.png')
+![image](https://github.com/sonu-daryani/openAI_chatbot_assesstant/blob/master/demo.png)
 
 ## 📦 Requirements
 
